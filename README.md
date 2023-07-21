@@ -3,7 +3,7 @@
 ## 📑 文档地址
 
 [https://docs.yunzai.org/](https://docs.yunzai.org/)
-
+目前fork代理地址:[https://yunzaidoc.nuoyis.com/](https://yunzaidoc.nuoyis.com/)
 ## 💻 参与编辑
 
 ### 开始编辑
