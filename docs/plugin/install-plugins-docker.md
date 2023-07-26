@@ -84,8 +84,9 @@ order: 1
     ```
     
 3.**使用脚本重新加载配置**
-    如果你的Docker已经运行，并且在创建容器后更改了如 `docker-compose.yaml`等配置,需要用以下代码重新部署容器
 
-    ```bash
-    docker-compose up -d
-    ```
+如果你的Docker已经运行，并且在创建容器后更改了如 `docker-compose.yaml`等配置,需要用以下代码重新部署容器
+```bash
+curl -fsSL get.docker.com -o get-docker.sh
+sudo sh get-docker.sh --mirror Aliyun
+```
